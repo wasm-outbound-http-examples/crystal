@@ -1,0 +1,7 @@
+{
+    "name": "Crystal WASM",
+    "build": {
+        "dockerfile": "Dockerfile",
+        "context": ".."
+    }
+}

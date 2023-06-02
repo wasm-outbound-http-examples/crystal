@@ -1,0 +1,14 @@
+name: browser
+version: 0.1.0
+
+authors:
+  - vasilev
+
+description: |
+  Simple HTTP request from inside browser WASM environment
+
+dependencies:
+  js:
+    github: lbguilherme/crystal-js
+
+license: MIT
