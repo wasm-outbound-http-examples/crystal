@@ -1,11 +1,11 @@
-name: browser
+name: browser-and-node
 version: 0.1.0
 
 authors:
   - vasilev
 
 description: |
-  Simple HTTP request from inside browser WASM environment
+  Simple HTTP request from inside browser or Node.js WASM environment
 
 dependencies:
   js:

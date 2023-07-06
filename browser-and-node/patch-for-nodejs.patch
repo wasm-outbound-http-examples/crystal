@@ -1,0 +1,2 @@
+0a1
+> global.XMLHttpRequest = require("xmlhttprequest2").XMLHttpRequest;
